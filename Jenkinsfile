@@ -8,4 +8,9 @@ stage('test'){
 
 echo'test the app...'
 }
+  stage('release'){
+
+echo'app is ready to relaese...'
+}
+  
 }
